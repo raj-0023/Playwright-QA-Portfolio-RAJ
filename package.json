@@ -1,0 +1,16 @@
+{
+  "name": "harvee-qa-automation",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Playwright UI automation for the Harvee QA assessment on Sauce Demo",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:ui": "playwright test --ui",
+    "report": "playwright show-report",
+    "install:browsers": "playwright install chrome"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.55.0"
+  }
+}
