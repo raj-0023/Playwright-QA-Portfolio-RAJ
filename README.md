@@ -1,4 +1,4 @@
-# Harvee QA Automation
+# Sauce Demo QA Automation
 
 The automation code written inside This code base Is exactly done As per the requirement Under the website Sauce Demo. Find All the 5 test Files Prepared For this particular website.
 
